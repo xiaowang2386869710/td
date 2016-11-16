@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+<dict>
+
+    <key>items</key>
+
+    <array>
+
+        <dict>
+
+            <key>assets</key>
+
+            <array>
+
+                <dict>
+
+                    <key>kind</key>
+
+                    <string>software-package</string>
+
+                    <key>url</key>
+
+                    <string>http://bige-th.b0.upaiyun.com/App/2016/11/16/New_01_ok(3)_p1w5tlqpja60uda8.ipa</string> 
+
+                </dict>
+
+            </array>
+
+            <key>metadata</key>
+
+            <dict>
+
+                     <key>bundle-identifier</key>  
+                    <string>com.New-01</string>  
+                    <key>bundle-version</key>  
+                    <string>1.9.1</string>  
+                    <key>kind</key>  
+                    <string>software</string>  
+                    <key>title</key>  
+                    <string>天天魔盒</string>  
+
+            </dict>
+
+        </dict>
+
+    </array>
+
+</dict>
+
+</plist>
