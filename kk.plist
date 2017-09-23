@@ -34,7 +34,7 @@
             <dict>
 
                      <key>bundle-identifier</key>  
-                    <string>com.New-01</string>  
+                    <string>com.New-01.mh</string>  
                     <key>bundle-version</key>  
                     <string>1.9.1</string>  
                     <key>kind</key>  
