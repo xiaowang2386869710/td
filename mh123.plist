@@ -34,7 +34,7 @@
             <dict>
 
                      <key>bundle-identifier</key>  
-                    <string>__W2A__www.alkmaijiaxiu.com</string>  
+                    <string>io.dcloud.W2Awww.alkmaijiaxiu.com</string>  
                     <key>bundle-version</key>  
                     <string>1.0</string>  
                     <key>kind</key>  
