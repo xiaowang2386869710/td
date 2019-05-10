@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+<dict>
+
+    <key>items</key>
+
+    <array>
+
+        <dict>
+
+            <key>assets</key>
+
+            <array>
+
+                <dict>
+
+                    <key>kind</key>
+
+                    <string>software-package</string>
+
+                    <key>url</key>
+
+                    <string>http://bige-th.b0.upaiyun.com/App/2019/05/10/123_3pnn0o4qd9ovzz0e.ipa</string> 
+
+                </dict>
+
+            </array>
+
+            <key>metadata</key>
+
+            <dict>
+
+                     <key>bundle-identifier</key>  
+                    <string>__W2A__www.alkmaijiaxiu.com</string>  
+                    <key>bundle-version</key>  
+                    <string>1.0</string>  
+                    <key>kind</key>  
+                    <string>software</string>  
+                    <key>title</key>  
+                    <string>天天魔盒</string>  
+
+            </dict>
+
+        </dict>
+
+    </array>
+
+</dict>
+
+</plist>
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
