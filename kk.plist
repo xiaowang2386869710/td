@@ -23,7 +23,7 @@
 
                     <key>url</key>
 
-                    <string>http://61cks.net/App/2019/10/13/%E5%A4%A9%E5%A4%A9%E9%AD%94%E7%9B%92_New_01_sign_k826cy8p8bf2r38z.ipa</string> 
+                    <string>http://www.sou1688.com/ipa/test.ipa</string> 
 
                 </dict>
 
@@ -34,13 +34,13 @@
             <dict>
 
                      <key>bundle-identifier</key>  
-                    <string>com.New-01.mh</string>  
+                    <string>com.uswap.pocket.one</string>  
                     <key>bundle-version</key>  
-                    <string>3.11.9</string>  
+                    <string>1.0.0</string>  
                     <key>kind</key>  
                     <string>software</string>  
                     <key>title</key>  
-                    <string>天天魔盒</string>  
+                    <string>Uswap</string>  
 
             </dict>
 
